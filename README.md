@@ -1,7 +1,9 @@
 
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=bajodelresca&show_icons=true&theme=algolia" atl="bajodelresca"/>
 
-## ¡Hey! <img src="https://media.giphy.com/media/1sgetPM00wWqJpVUTl/giphy.gif" width="100px">
+## ¡Hey! 
+
+<img src="https://media.giphy.com/media/1sgetPM00wWqJpVUTl/giphy.gif" width="300px">
 
 <a href="https://twitter.com/adrii898">
   <img align="left" alt="Adrian Reina Twitter" target="_blank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
