@@ -9,7 +9,7 @@
   <img align="left" alt="bajodelresca Github" target="_blank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 
-<a href="www.linkedin.com/in/adrián-manuel-reina-morales-457876205">
+<a href="https://www.linkedin.com/in/adrián-manuel-reina-morales-457876205">
   <img align="left" alt="Adrián Linkedin" target="_blank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
