@@ -1,5 +1,5 @@
 
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=bajodelresca&show_icons=true&theme=algolia" atl="bajodelresca"/>
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=bajodelresca&show_icons=true&theme=dracula" atl="bajodelresca"/>
 
 ## Desarrollando...&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://media.giphy.com/media/UVG0BN8TOMKkPOJS6e/giphy.gif" width="30px">
 
